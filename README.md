@@ -6,7 +6,7 @@ My role in this project was to create the entirety of the front-end alongside co
 
 This project was created and presented at Miami Hack Week furthermore representing house Hack@Campus.
 
-## IMPORTANT
+## Important
 
 Before running the project, make sure you install the following dependencies:
 
