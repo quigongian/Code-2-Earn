@@ -8,7 +8,7 @@ This project was created and presented at Miami Hack Week furthermore representi
 
 ## Important
 
-Before running the project, make sure you install the following dependencies:
+Before running the team-based project, make sure you install the following dependencies:
 
 Node Modules:
 ### `npm install`
